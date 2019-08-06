@@ -1,0 +1,75 @@
+html {
+    text-align: center;
+    cursor: url('http://www.rw-designer.com/cursor-view/5051.png'), auto;
+    background-image: url('https://vignette.wikia.nocookie.net/kh-fanon/images/5/50/Wiki-background/revision/latest?cb=20110917160842');
+}
+
+h1 {
+    color: white;
+    background-color: grey;
+    font-family: Sniglet;
+}
+
+h3 {
+    font-family: Bungee;
+    font-size: 35px;
+}
+
+p {
+    font-family: Nunito;    
+}
+
+.keybladeImage {
+    width: 200px;
+    height: 200px;
+}
+
+.characterImg {
+    width: 100px;
+    height: 230px;
+}
+
+.allQuestions {
+    margin: 20px;
+    padding: 20px;
+    background-color: grey;
+}
+
+.numberQuestion {
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+}
+
+.keybladeQuestion {
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+}
+
+.flexOne {
+    display: flex;
+    justify-content: space-around;
+}
+
+.character{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;    
+}
+
+.Sora {
+    background-color: white;
+}
+
+.Riku {
+    background-color: white;
+}
+
+.Kairi {
+    background-color: white;
+}
+
+.Namine{
+    background-color: white;
+}
